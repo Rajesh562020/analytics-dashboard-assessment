@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+/* Base layer overrides */
+/* @layer base {
+  body {
+    @apply bg-gray-50 text-gray-800 font-sans antialiased transition-colors duration-300;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold text-gray-900;
+  }
+
+  a {
+    @apply text-blue-600 hover:text-blue-800 transition-colors duration-200;
+  }
+} */
+
+/* Component layer - reusable styles */
+/* @layer components {
+  .card {
+    @apply bg-white shadow-md rounded-2xl p-6 transition hover:shadow-lg;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center rounded-xl px-4 py-2 font-medium 
+           text-white bg-blue-600 hover:bg-blue-700 active:bg-blue-800
+           focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-offset-2;
+  }
+
+  .btn-secondary {
+    @apply bg-gray-200 text-gray-800 hover:bg-gray-300 active:bg-gray-400;
+  }
+
+  .input {
+    @apply w-full px-4 py-2 rounded-xl border border-gray-300 
+           focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-400;
+  }
+
+  .sidebar {
+    @apply bg-white shadow-md w-64 min-h-screen p-4 flex flex-col gap-4;
+  }
+
+  .dashboard-grid {
+    @apply grid gap-6 md:grid-cols-2 lg:grid-cols-3;
+  }
+} */
+
+/* Utility layer tweaks */
+/* @layer utilities {
+  
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: theme("colors.gray.400");
+    border-radius: 9999px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: theme("colors.gray.500");
+  }
+} */
