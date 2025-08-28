@@ -6,6 +6,9 @@ The objective of this assessment is to analyze the provided Electric Vehicle (EV
 
 ### We encourage the use of AI and LLM tools for this assessment! However, you must understand what you're building and be able to explain your implementation decisions.
 
+## Live URL
+https://analytics-dashboard-assessment-kappa.vercel.app/
+ 
 ## Dataset
 
 The Electric Vehicle Population dataset is available in the [Electric Vehicle Population Data (CSV)](./data-to-visualize/Electric_Vehicle_Population_Data.csv) within this repository, for more information about the dataset visit [kaggle dataset](https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population).
